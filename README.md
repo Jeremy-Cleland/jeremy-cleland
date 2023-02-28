@@ -1,2 +1,2 @@
-![Profile Banner](JeremyCleland.png)
 
+![Profile Banner](JeremyCleland.png)
