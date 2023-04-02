@@ -10,6 +10,8 @@
 
 ![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremy-cleland&theme=onedark)
 
+![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=onedark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-clelalnd&theme=onedark&layout=compact)
 
 ### Resources
