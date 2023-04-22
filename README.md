@@ -1,11 +1,10 @@
 
-![Profile Banner](JeremyCleland.png)
-
-
+# ![Profile Banner](JeremyCleland.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeremy-cleland/" target="_blank" rel="noopener noreferrer"><img height="38" src="./linkedin.png"></a>&nbsp;&nbsp;
-  <a href="mailto:jeremy.cleland@icloud.com" target="_blank" rel="noopener noreferrer"><img height="38" src="./gmail.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jeremy-cleland/" target="_blank" rel="noopener noreferrer"><img height="50" src="./img/icons8-linkedin-48.png"></a>&nbsp;&nbsp;
+  <a href="mailto:jeremy.cleland@icloud.com" target="_blank" rel="noopener noreferrer"><img height="50" src="./img/icons8-gmail-logo-48.png"></a>&nbsp;&nbsp;
+    <a href=www.github.com/jeremy-cleland" target="_blank" rel="noopener noreferrer"><img height="50" src="./img/icons8-github-48.png"></a>&nbsp;&nbsp;
 </p>
 
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy-cleland&count_private=true&show_icons=true&theme=onedark)
