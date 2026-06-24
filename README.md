@@ -4,8 +4,9 @@
 > Building practical, high-reliability systems across applied AI, automation, and intelligence-driven workflows.
 
 <p align="left">
-  <a href="https://clelandco.com"><img src="https://img.shields.io/badge/Portfolio-clelandco.com-1e2327?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://jeremycleland.com"><img src="https://img.shields.io/badge/Portfolio-jeremycleland.com-1e2327?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/jeremy-cleland/"><img src="https://img.shields.io/badge/LinkedIn-jeremy--cleland-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://clelandco.com"><img src="https://img.shields.io/badge/Cleland_Co-clelandco.com-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cleland Co"></a>
 </p>
 
 ---
@@ -100,8 +101,9 @@ This GitHub is where I keep engineering projects, AI/ML experiments, prototypes,
 
 ## Let's Connect
 
-- 🌐 Portfolio: [clelandco.com](https://clelandco.com)
+- 🌐 Portfolio: [jeremycleland.com](https://jeremycleland.com)
 - 💼 LinkedIn: [jeremy-cleland](https://www.linkedin.com/in/jeremy-cleland/)
+- 🏢 Cleland Co (my company): [clelandco.com](https://clelandco.com)
 
 ---
 
