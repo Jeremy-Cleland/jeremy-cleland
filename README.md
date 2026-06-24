@@ -90,10 +90,9 @@ This GitHub is where I keep engineering projects, AI/ML experiments, prototypes,
 
 ---
 
-## GitHub Stats
+## Languages I Build In
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeremy-Cleland&show_icons=true&hide_border=true&theme=dark" alt="Jeremy's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Cleland&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
 </p>
 
