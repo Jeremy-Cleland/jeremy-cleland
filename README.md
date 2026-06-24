@@ -93,7 +93,7 @@ This GitHub is where I keep engineering projects, AI/ML experiments, prototypes,
 ## Languages I Build In
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Cleland&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Cleland&layout=compact&hide_border=true&theme=dark&hide=html&langs_count=8" alt="Top languages" />
 </p>
 
 ---
